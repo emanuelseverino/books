@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729178613831",
+    "project_id": "books-esms",
+    "storage_bucket": "books-esms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729178613831:android:2296cc4964e0f9b0996962",
+        "android_client_info": {
+          "package_name": "com.example.books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729178613831-vsj5qdg0dcvu7ri7i58s2kk2juv6mgl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlvMbCVWsTgHCQyENsW0n7CKm0JGooNpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729178613831-vsj5qdg0dcvu7ri7i58s2kk2juv6mgl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
